@@ -51,15 +51,21 @@ Generates static output for both locales into `build/` (Polish at the root, Engl
 
 Docusaurus does **not** fail the build when an English translation is missing — it silently falls back to rendering the Polish content under the Polish slug. Always verify a new English file actually exists and was picked up; don't rely on the build succeeding as proof of a complete translation.
 
-## Deploy — Cloudflare Pages (one-time manual setup)
+## Deploy — Cloudflare Pages (via GitHub Actions)
 
-1. Cloudflare dashboard → **Workers & Pages** → **Create** → **Pages** → **Connect to Git** → select `B-B-Digital/docs`.
-2. Build settings:
-   - Build command: `pnpm build`
-   - Build output directory: `build`
-   - Environment variable: `NODE_VERSION=22`
-3. **Custom domains** tab → add `docs.bbdigital.pl`.
-4. Every push to `main` triggers an automatic deploy.
+Deployment is handled by `.github/workflows/deploy.yml`, matching the pattern used in `BB-Digital_Portfolio`: it runs after `CI` succeeds on `main` and pushes the build with `wrangler pages deploy`. No Cloudflare dashboard Git integration is used.
+
+**One-time setup (manual, required before the first deploy):**
+
+1. Add two Actions secrets to this repo (Settings → Secrets and variables → Actions), or via CLI:
+   ```bash
+   gh secret set CLOUDFLARE_API_TOKEN --repo B-B-Digital/docs
+   gh secret set CLOUDFLARE_ACCOUNT_ID --repo B-B-Digital/docs
+   ```
+   Same values as the `BB-Digital_Portfolio` repo's secrets (Cloudflare dashboard → My Profile → API Tokens for the token; Account Home for the account ID).
+2. If the Cloudflare Pages project `bb-digital-docs` doesn't exist yet, the first deploy run creates it. Afterwards, in the Cloudflare dashboard → **Workers & Pages** → `bb-digital-docs` → **Custom domains** → add `docs.bbdigital.pl`.
+
+After that, every push to `main` that passes CI deploys automatically.
 
 ## Branding
 
