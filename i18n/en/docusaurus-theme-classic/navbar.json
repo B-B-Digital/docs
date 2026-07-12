@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "B&B Digital",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "B&B Digital",
+    "description": "The alt text of navbar logo"
+  }
+}

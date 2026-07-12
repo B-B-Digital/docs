@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Najczęstsze pytania": {
+    "message": "Frequently asked questions",
+    "description": "The label for category 'Najczęstsze pytania' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Współpraca z nami": {
+    "message": "Working with us",
+    "description": "The label for category 'Współpraca z nami' in sidebar 'docs'"
+  }
+}
