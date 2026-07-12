@@ -18,6 +18,8 @@
 
   --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
   --ifm-heading-font-family: 'Space Grotesk', 'Inter', sans-serif;
+
+  --category-card-badge-bg: rgba(12, 126, 147, 0.12);
 }
 
 /* Dark mode uses the brand's "accent on dark backgrounds" color (secondary/cyan)
@@ -31,9 +33,80 @@
   --ifm-color-primary-lighter: #4ecfe1;
   --ifm-color-primary-lightest: #6fd8e7;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+  --category-card-badge-bg: rgba(34, 195, 218, 0.15);
 }
 
 .navbar__title {
   font-family: var(--ifm-heading-font-family);
   font-weight: 700;
+}
+
+/* Navbar is pinned dark (navbar.style: 'dark' in docusaurus.config.ts) regardless
+   of site color mode — brand-color Infima's generic dark navbar instead of its
+   default gray. */
+.navbar--dark {
+  --ifm-navbar-background-color: #13171c;
+  --ifm-navbar-link-hover-color: #22c3da;
+}
+
+.accent-bar {
+  width: 48px;
+  height: 3px;
+  background: var(--ifm-color-primary);
+  margin-bottom: 0.75rem;
+}
+
+.category-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  background: var(--ifm-background-color);
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.2s ease;
+}
+
+.category-card:hover,
+.category-card:focus-visible {
+  box-shadow: var(--ifm-global-shadow-lw);
+  text-decoration: none;
+  color: inherit;
+}
+
+.category-card__icon {
+  font-size: 1.75rem;
+  line-height: 1;
+}
+
+.category-card__title {
+  margin: 0;
+}
+
+.category-card__description {
+  margin: 0;
+  color: var(--ifm-color-emphasis-700);
+  flex-grow: 1;
+}
+
+.category-card__badge {
+  align-self: flex-start;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.15rem 0.6rem;
+  border-radius: 20px;
+  background: var(--category-card-badge-bg);
+  color: var(--ifm-color-primary);
+}
+
+.category-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
 }

@@ -78,15 +78,16 @@ const config: Config = {
     colorMode: {
       respectPrefersColorScheme: true,
     },
+    image: 'img/social-card.png',
     mermaid: {
       theme: {light: 'base', dark: 'base'},
     },
     navbar: {
       title: 'B&B Digital',
+      style: 'dark', // permanently dark navbar, decoupled from colorMode — matches the brand guide's nav mockup
       logo: {
         alt: 'B&B Digital',
-        src: 'img/logo-light.svg',
-        srcDark: 'img/logo-dark.svg',
+        src: 'img/logo-dark.svg', // white mark — the only logo now
       },
       items: [
         {

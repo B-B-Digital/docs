@@ -83,7 +83,7 @@ Colors, fonts, and logo match `docs/branding/brand-guide.html` in `BB-Digital_Po
 
 - Primary `#0c7e93` (light mode) / secondary `#22c3da` (dark mode) — see `src/css/custom.css`
 - Space Grotesk (headings) + Inter (body) via Google Fonts
-- Logo: black mark (`static/img/logo-light.svg`) on light navbar, white mark (`static/img/logo-dark.svg`) on dark navbar
+- Navbar is pinned permanently dark (ink `#13171c`) regardless of site color mode, matching the brand guide's nav mockup — single white-mark logo (`static/img/logo-dark.svg`)
 - Favicon and touch icons copied from the portfolio repo's `public/` folder
 
 ## Follow-ups (tracked separately)
