@@ -55,7 +55,7 @@ Pełny przewodnik po panelu, w którym samodzielnie edytujesz swoją stronę:
 - [Jak dodać lub zmienić usługę](./cms/usluga.md)
 - [Jak dodać lub zmienić członka zespołu](./cms/czlonek-zespolu.md)
 - [Jak dodać wpis na bloga](./cms/wpis-na-blogu.md)
-- [Jak dodać aktualność](./cms/aktualnosc.md)
+- [Jak dodać aktualności](./cms/aktualnosc.md)
 - [Jak dodać opinię klienta](./cms/opinia-klienta.md)
 
 ### Wsparcie i utrzymanie

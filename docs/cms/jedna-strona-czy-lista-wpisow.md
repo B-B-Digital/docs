@@ -18,7 +18,7 @@ Dokładnie tak działają w panelu **Ustawienia strony, Strona główna, Strona 
 
 Zupełnie inaczej działa segregator z aktami klientów w kancelarii. Przyjmujesz nową sprawę — dokładasz nową teczkę. Sprawa się kończy i akta trafiają do archiwum — teczkę usuwasz albo odkładasz na bok. Segregator rośnie i kurczy się razem z Twoją praktyką.
 
-Tak działają **Usługa, Członek zespołu** oraz, jeśli Twoja strona z nich korzysta, **Wpis na blogu, Aktualność i Opinia klienta**. To listy, do których swobodnie dodajesz nowe pozycje i z których usuwasz te nieaktualne. Zatrudniłeś/aś nowego prawnika do kancelarii? Dodajesz nowego Członka zespołu. Rozszerzyłeś/aś ofertę o mediacje? Dodajesz nową Usługę. Liczba pozycji na liście zależy wyłącznie od Ciebie.
+Tak działają **Usługa, Członek zespołu** oraz, jeśli Twoja strona z nich korzysta, **Wpis na blogu, Aktualności i Opinia klienta**. To listy, do których swobodnie dodajesz nowe pozycje i z których usuwasz te nieaktualne. Zatrudniłeś/aś nowego prawnika do kancelarii? Dodajesz nowego Członka zespołu. Rozszerzyłeś/aś ofertę o mediacje? Dodajesz nową Usługę. Liczba pozycji na liście zależy wyłącznie od Ciebie.
 
 ## Dlaczego to rozróżnienie ma znaczenie
 

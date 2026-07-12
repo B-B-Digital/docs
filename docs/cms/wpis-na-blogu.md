@@ -30,4 +30,4 @@ Samą treść piszesz w edytorze tekstu ([jak korzystać z edytora tekstu](./jak
 
 Wpisy na bloga mają własną zakładkę SEO, tak jak usługi — opisaną w [jak wypełnić zakładkę SEO](./jak-wypelnic-zakladke-seo.md).
 
-Jeśli Twoja strona ma też sekcję aktualności, zobacz [jak dodać aktualność](./aktualnosc.md) — to zwykle szybszy, prostszy format niż pełny wpis na bloga.
+Jeśli Twoja strona ma też sekcję aktualności, zobacz [jak dodać aktualności](./aktualnosc.md) — to zwykle szybszy, prostszy format niż pełny wpis na bloga.

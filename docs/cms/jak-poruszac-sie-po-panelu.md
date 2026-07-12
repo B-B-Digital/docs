@@ -22,7 +22,7 @@ Kliknięcie w dowolną z nich od razu otwiera formularz do edycji. Nie ma tu ża
 
 ## Pod kreską: listy, które rozbudowujesz
 
-Poniżej wyraźnej linii oddzielającej zaczyna się druga część menu — pozycje, pod którymi kryje się nie jeden dokument, a cała kolekcja. Tutaj typowo znajdziesz Usługę i Członka zespołu, a jeśli Twoja strona z nich korzysta, również Wpis na blogu, Aktualność i Opinię klienta.
+Poniżej wyraźnej linii oddzielającej zaczyna się druga część menu — pozycje, pod którymi kryje się nie jeden dokument, a cała kolekcja. Tutaj typowo znajdziesz Usługę i Członka zespołu, a jeśli Twoja strona z nich korzysta, również Wpis na blogu, Aktualności i Opinię klienta.
 
 Kliknięcie w taką pozycję nie otwiera od razu formularza edycji, tylko listę wszystkich istniejących wpisów danego typu. Dopiero z niej wybierasz konkretny wpis do zmiany albo dodajesz nowy przyciskiem w prawym górnym rogu.
 
