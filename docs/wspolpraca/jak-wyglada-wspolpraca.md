@@ -8,6 +8,17 @@ title: Jak wygląda współpraca krok po kroku?
 
 Cały proces prowadzimy tak, aby był dla Ciebie jak najprostszy. Oto jak to wygląda:
 
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#0c7e93', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#0a6576', 'lineColor':'#22c3da', 'secondaryColor':'#22c3da', 'tertiaryColor':'#f4f6f8'}}}%%
+flowchart LR
+    A[Rozmowa i brief] --> B[Wycena i umowa]
+    B --> C[Projekt graficzny]
+    C --> D[Budowa strony]
+    D --> E[Twoje uwagi i poprawki]
+    E --> F[Start strony]
+    F --> G[Opieka po wdrożeniu]
+```
+
 ## 1. Rozmowa i brief
 
 Poznajemy Twoją firmę, cele strony i oczekiwania. Ustalamy zakres projektu.
@@ -39,3 +50,5 @@ Zostajemy do dyspozycji — pomagamy z aktualizacjami, pytaniami i drobnymi zmia
 ---
 
 Zastanawiasz się, co przygotować, zanim zaczniemy? Sprawdź: [Co przygotować przed startem projektu?](./co-przygotowac-przed-startem.md)
+
+Twoja strona już wystartowała? Zobacz, co dzieje się dalej: [Pierwsze kroki po starcie](../po-starcie/pierwsze-kroki-po-starcie.md)
