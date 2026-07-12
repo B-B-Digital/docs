@@ -10,5 +10,21 @@
   "sidebar.docs.category.Współpraca z nami": {
     "message": "Working with us",
     "description": "The label for category 'Współpraca z nami' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Pierwsze kroki po starcie": {
+    "message": "First steps after launch",
+    "description": "The label for category 'Pierwsze kroki po starcie' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Edycja treści w CMS": {
+    "message": "Editing content in the CMS",
+    "description": "The label for category 'Edycja treści w CMS' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Wsparcie i utrzymanie": {
+    "message": "Support & maintenance",
+    "description": "The label for category 'Wsparcie i utrzymanie' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Marketing i rozwój strony": {
+    "message": "Marketing & growing your site",
+    "description": "The label for category 'Marketing i rozwój strony' in sidebar 'docs'"
   }
 }

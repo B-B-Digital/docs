@@ -22,6 +22,7 @@ const config: Config = {
 
   onBrokenLinks: 'throw',
   markdown: {
+    mermaid: true,
     hooks: {
       onBrokenMarkdownLinks: 'throw',
     },
@@ -71,9 +72,14 @@ const config: Config = {
     ],
   ],
 
+  themes: ['@docusaurus/theme-mermaid'],
+
   themeConfig: {
     colorMode: {
       respectPrefersColorScheme: true,
+    },
+    mermaid: {
+      theme: {light: 'base', dark: 'base'},
     },
     navbar: {
       title: 'B&B Digital',
