@@ -61,7 +61,15 @@ Docusaurus does **not** fail the build when an English translation is missing �
 3. **Custom domains** tab → add `docs.bbdigital.pl`.
 4. Every push to `main` triggers an automatic deploy.
 
+## Branding
+
+Colors, fonts, and logo match `docs/branding/brand-guide.html` in `BB-Digital_Portfolio`:
+
+- Primary `#0c7e93` (light mode) / secondary `#22c3da` (dark mode) — see `src/css/custom.css`
+- Space Grotesk (headings) + Inter (body) via Google Fonts
+- Logo: black mark (`static/img/logo-light.svg`) on light navbar, white mark (`static/img/logo-dark.svg`) on dark navbar
+- Favicon and touch icons copied from the portfolio repo's `public/` folder
+
 ## Follow-ups (tracked separately)
 
 - Link to this docs site from the pricing page in `B-B-Digital/BB-Digital_Portfolio` (separate issue).
-- Replace the placeholder brand color (`src/css/custom.css`) and logo/favicon (`static/img/`) with real B&B Digital branding assets.

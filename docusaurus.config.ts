@@ -27,6 +27,24 @@ const config: Config = {
     },
   },
 
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {rel: 'icon', type: 'image/png', sizes: '32x32', href: '/img/favicon-32.png'},
+    },
+    {
+      tagName: 'link',
+      attributes: {rel: 'apple-touch-icon', sizes: '180x180', href: '/img/apple-touch-icon.png'},
+    },
+  ],
+
+  stylesheets: [
+    {
+      href: 'https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap',
+      rel: 'stylesheet',
+    },
+  ],
+
   i18n: {
     defaultLocale: 'pl',
     locales: ['pl', 'en'],
@@ -61,7 +79,8 @@ const config: Config = {
       title: 'B&B Digital',
       logo: {
         alt: 'B&B Digital',
-        src: 'img/logo.svg',
+        src: 'img/logo-light.svg',
+        srcDark: 'img/logo-dark.svg',
       },
       items: [
         {
