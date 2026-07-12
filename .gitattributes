@@ -1,0 +1,15 @@
+# Force LF in the working tree on every platform (not just the repo object
+# store). Avoids line-ending flip-flopping on Windows checkouts.
+* text=auto eol=lf
+
+# Binary assets — never normalise line endings or diff as text.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.svg text eol=lf
+*.woff binary
+*.woff2 binary
+*.pdf binary
