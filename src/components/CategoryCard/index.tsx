@@ -1,4 +1,4 @@
-import React, {type ReactNode} from 'react';
+import React, {type CSSProperties, type ReactNode} from 'react';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import {useDocsSidebar, findFirstSidebarItemLink} from '@docusaurus/plugin-content-docs/client';
@@ -10,6 +10,8 @@ interface CategoryCardProps {
   icon: string;
   title: string;
   description: string;
+  /** Per-category accent hex, drives the icon tile, badge, and hover glow. */
+  color: string;
 }
 
 function pluralizeArticles(count: number, locale: string): string {
@@ -30,6 +32,7 @@ export default function CategoryCard({
   icon,
   title,
   description,
+  color,
 }: CategoryCardProps): ReactNode {
   const {i18n} = useDocusaurusContext();
   const sidebar = useDocsSidebar();
@@ -45,13 +48,15 @@ export default function CategoryCard({
   const count = category?.items.length ?? 0;
 
   return (
-    <Link to={href} className="category-card">
-      <span className="category-card__icon">{icon}</span>
+    <Link to={href} className="category-card" style={{'--card-accent': color} as CSSProperties}>
+      <div className="category-card__header">
+        <span className="category-card__icon">{icon}</span>
+        <span className="category-card__badge">
+          {count} {pluralizeArticles(count, i18n.currentLocale)}
+        </span>
+      </div>
       <h3 className="category-card__title">{title}</h3>
       <p className="category-card__description">{description}</p>
-      <span className="category-card__badge">
-        {count} {pluralizeArticles(count, i18n.currentLocale)}
-      </span>
     </Link>
   );
 }

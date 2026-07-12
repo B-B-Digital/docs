@@ -325,5 +325,9 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "theme.SearchBar.sidebarPlaceholder": {
+    "message": "Search…",
+    "description": "Placeholder for the (currently decorative) sidebar search box"
   }
 }
