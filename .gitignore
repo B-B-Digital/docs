@@ -9,6 +9,9 @@
 .cache-loader
 .wrangler
 
+# Design mockups / scratch (dropped in for reference, not part of the site)
+/TEMP
+
 # Misc
 .DS_Store
 .env.local

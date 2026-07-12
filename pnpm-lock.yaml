@@ -42,6 +42,9 @@ importers:
       '@docusaurus/plugin-content-docs':
         specifier: 3.10.2
         version: 3.10.2(@docusaurus/faster@3.10.2(@docusaurus/types@3.10.2(@swc/core@1.15.43)(postcss@8.5.16)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(postcss@8.5.16))(@mdx-js/react@3.1.1(@types/react@19.2.17)(react@19.2.7))(@rspack/core@1.7.12)(@swc/core@1.15.43)(postcss@8.5.16)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)(typescript@7.0.2)
+      '@docusaurus/theme-common':
+        specifier: 3.10.2
+        version: 3.10.2(@docusaurus/plugin-content-docs@3.10.2(@docusaurus/faster@3.10.2(@docusaurus/types@3.10.2(@swc/core@1.15.43)(postcss@8.5.16)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(postcss@8.5.16))(@mdx-js/react@3.1.1(@types/react@19.2.17)(react@19.2.7))(@rspack/core@1.7.12)(@swc/core@1.15.43)(postcss@8.5.16)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)(typescript@7.0.2))(@swc/core@1.15.43)(postcss@8.5.16)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
       '@docusaurus/tsconfig':
         specifier: 3.10.2
         version: 3.10.2

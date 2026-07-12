@@ -2,13 +2,18 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+// Per-category icon + accent color. Consumed by the swizzled
+// src/theme/DocSidebarItem/Category component (colored icon square, count badge,
+// sub-list accent border, active-item dot). Same palette as the homepage cards
+// in docs/start.mdx — keep the two in sync when adding a category.
 const sidebars: SidebarsConfig = {
   docs: [
     'start',
     {
       type: 'category',
       label: 'Najczęstsze pytania',
-      collapsed: false,
+      collapsed: true,
+      customProps: {icon: '❓', color: '#0c7e93'},
       items: [
         'faq/czym-jest-domena',
         'faq/czym-jest-hosting-i-ssl',
@@ -19,7 +24,8 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Współpraca z nami',
-      collapsed: false,
+      collapsed: true,
+      customProps: {icon: '🤝', color: '#3b6fd4'},
       items: [
         'wspolpraca/jak-wyglada-wspolpraca',
         'wspolpraca/co-przygotowac-przed-startem',
@@ -28,7 +34,8 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Pierwsze kroki po starcie',
-      collapsed: false,
+      collapsed: true,
+      customProps: {icon: '🚀', color: '#8a5cd1'},
       items: [
         'po-starcie/pierwsze-kroki-po-starcie',
         'po-starcie/dostep-do-panelu',
@@ -40,7 +47,8 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Edycja treści w CMS',
-      collapsed: false,
+      collapsed: true,
+      customProps: {icon: '🛠️', color: '#d9603f'},
       items: [
         'cms/jak-poruszac-sie-po-panelu',
         'cms/jedna-strona-czy-lista-wpisow',
@@ -62,7 +70,8 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Wsparcie i utrzymanie',
-      collapsed: false,
+      collapsed: true,
+      customProps: {icon: '🎧', color: '#2f9e6f'},
       items: [
         'wsparcie/blad-czy-nowa-funkcja',
         'wsparcie/co-wchodzi-w-opieke',
@@ -73,7 +82,8 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Marketing i rozwój strony',
-      collapsed: false,
+      collapsed: true,
+      customProps: {icon: '📈', color: '#b57f10'},
       items: [
         'marketing-i-rozwoj/zmiany-w-domenie',
         'marketing-i-rozwoj/google-analytics-i-search-console',
