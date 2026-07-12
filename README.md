@@ -1,6 +1,8 @@
 # B&B Digital — Centrum pomocy / Help Center
 
-Client-facing help center for B&B Digital, published at **https://docs.bbdigital.pl**. Built with [Docusaurus](https://docusaurus.io/) in docs-only mode. Polish is the canonical language; English is a translation.
+Client-facing help center for B&B Digital. Built with [Docusaurus](https://docusaurus.io/) in docs-only mode, deployed as a Cloudflare Worker (static assets, no server code). Polish is the canonical language; English is a translation.
+
+Live at **https://bb-digital-docs.gustaw-beznicki-5bb.workers.dev** for now. `docs.bbdigital.pl` is the intended final domain, but the `bbdigital.pl` zone currently lives on a different Cloudflare account than this Worker — see [Custom domain](#custom-domain) below.
 
 Primary content: an educational FAQ for clients ordering a website for the first time (domains, hosting, SSL, CMS), plus a step-by-step overview of how working with B&B Digital looks.
 
@@ -51,15 +53,29 @@ Generates static output for both locales into `build/` (Polish at the root, Engl
 
 Docusaurus does **not** fail the build when an English translation is missing — it silently falls back to rendering the Polish content under the Polish slug. Always verify a new English file actually exists and was picked up; don't rely on the build succeeding as proof of a complete translation.
 
-## Deploy — Cloudflare Pages (one-time manual setup)
+## Deploy — Cloudflare Workers (via GitHub Actions)
 
-1. Cloudflare dashboard → **Workers & Pages** → **Create** → **Pages** → **Connect to Git** → select `B-B-Digital/docs`.
-2. Build settings:
-   - Build command: `pnpm build`
-   - Build output directory: `build`
-   - Environment variable: `NODE_VERSION=22`
-3. **Custom domains** tab → add `docs.bbdigital.pl`.
-4. Every push to `main` triggers an automatic deploy.
+The site is a Worker with static assets only (`wrangler.jsonc` → `assets.directory: ./build`, no `main` script — Docusaurus's output needs no server code). Deployment is handled by `.github/workflows/deploy.yml`: runs after `CI` succeeds on `main`, deploys with `wrangler deploy`. Same CI-gated pattern as `BB-Digital_Portfolio`'s `deploy.yml`, minus the Workers-with-server-code parts it needs and this repo doesn't.
+
+**One-time setup (manual, required before the first CI-driven deploy):**
+
+1. This Cloudflare account (`5bbc215d278201381d2dc26883b49083`, a fresh account separate from wherever `BB-Digital_Portfolio` deploys) needs a `workers.dev` subdomain registered once — done via the Cloudflare dashboard, no CLI/API shortcut for it. Already done for this account.
+2. Add two Actions secrets to this repo:
+   ```bash
+   gh secret set CLOUDFLARE_API_TOKEN --repo B-B-Digital/docs
+   gh secret set CLOUDFLARE_ACCOUNT_ID --repo B-B-Digital/docs
+   ```
+   These are **not** the same values as `BB-Digital_Portfolio`'s secrets — different Cloudflare account. Create a token scoped to this account (My Profile → API Tokens → "Edit Cloudflare Workers" template).
+
+After that, every push to `main` that passes CI deploys automatically to `bb-digital-docs.gustaw-beznicki-5bb.workers.dev`.
+
+### Custom domain
+
+`docs.bbdigital.pl` can't be attached yet — Cloudflare only lets you attach a custom domain to a Worker if the domain's zone lives in the *same* account, and `bbdigital.pl` is currently on a different (older) Cloudflare account. Options, in order of likely preference:
+- Migrate the `bbdigital.pl` zone to this account, then attach the custom domain to this Worker.
+- Keep the zone where it is and instead deploy this Worker under that same account (would need re-running the one-time setup above against that account's credentials).
+
+Until resolved, the `workers.dev` URL is the canonical link for this site.
 
 ## Branding
 
