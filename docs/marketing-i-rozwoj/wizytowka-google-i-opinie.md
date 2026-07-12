@@ -10,7 +10,7 @@ Wizytówka Google (oficjalnie: Profil Firmy w Google, dawniej Google Moja Firma)
 
 ## Dlaczego to ważne
 
-Kiedy ktoś szuka w Google frazy typu "prawnik rozwodowy Kraków" albo "dentysta w pobliżu", to właśnie wizytówka decyduje, czy Twoja firma pojawi się na mapie i w tzw. lokalnym pakiecie wyników — zanim ktokolwiek w ogóle wejdzie na Twoją stronę. Dobrze uzupełniona wizytówka, z aktualnymi godzinami i odpowiedziami na opinie, realnie wpływa na to, ile telefonów czy wiadomości odbierasz.
+Kiedy ktoś szuka w Google frazy typu „prawnik rozwodowy Kraków” albo „dentysta w pobliżu”, to właśnie wizytówka decyduje, czy Twoja firma pojawi się na mapie i w tzw. lokalnym pakiecie wyników — zanim ktokolwiek w ogóle wejdzie na Twoją stronę. Dobrze uzupełniona wizytówka, z aktualnymi godzinami i odpowiedziami na opinie, realnie wpływa na to, ile telefonów czy wiadomości odbierasz.
 
 ## Opinie na wizytówce a opinie na Twojej stronie
 

@@ -6,7 +6,7 @@ title: Jak dodać lub zmienić usługę
 
 # Jak dodać lub zmienić usługę
 
-Usługi to najczęściej ta część strony, od której zależy, czy klient sięgnie po telefon. W przeciwieństwie do stron takich jak "O nas" czy strona główna, usług masz zwykle kilka albo kilkanaście — dlatego w panelu wyglądają jako lista wpisów, a nie jeden dokument (więcej o tej różnicy w [jedna strona czy lista wpisów](./jedna-strona-czy-lista-wpisow.md)).
+Usługi to najczęściej ta część strony, od której zależy, czy klient sięgnie po telefon. W przeciwieństwie do stron takich jak „O nas” czy strona główna, usług masz zwykle kilka albo kilkanaście — dlatego w panelu wyglądają jako lista wpisów, a nie jeden dokument (więcej o tej różnicy w [jedna strona czy lista wpisów](./jedna-strona-czy-lista-wpisow.md)).
 
 ## Nazwa i krótki opis
 
@@ -18,13 +18,13 @@ Każda usługa może mieć swoje zdjęcie — zasady wgrywania i kadrowania są 
 
 ## Pełny opis usługi
 
-Pełny opis to miejsce na wszystko, czego nie zmieściłeś w krótkim opisie — przebieg zabiegu, co obejmuje usługa, dla kogo jest przeznaczona. Piszesz go w edytorze tekstu ([jak korzystać z edytora tekstu](./jak-korzystac-z-edytora-tekstu.md)), a wyświetla się on na własnej podstronie danej usługi, do której trafia klient po kliknięciu w kartę.
+Pełny opis to miejsce na wszystko, czego nie zmieściłeś/aś w krótkim opisie — przebieg zabiegu, co obejmuje usługa, dla kogo jest przeznaczona. Piszesz go w edytorze tekstu ([jak korzystać z edytora tekstu](./jak-korzystac-z-edytora-tekstu.md)), a wyświetla się on na własnej podstronie danej usługi, do której trafia klient po kliknięciu w kartę.
 
 Właśnie ten adres podstrony — na przykład `twojafirma.pl/uslugi/wybielanie-zebow` — **tworzy się automatycznie na podstawie nazwy usługi**. Nie musisz nic w tej sprawie ustawiać ręcznie.
 
 ## Kolejność wyświetlania
 
-Pole "Kolejność wyświetlania" to zwykła liczba — im mniejsza, tym wyżej (lub bardziej z lewej, zależnie od układu) usługa pojawi się na liście. Jeśli masz dziesięć usług i chcesz, żeby najbardziej dochodowa lub najczęściej wybierana widniała jako pierwsza, właśnie tu to ustawiasz.
+Pole „Kolejność wyświetlania” to zwykła liczba — im mniejsza, tym wyżej (lub bardziej z lewej, zależnie od układu) usługa pojawi się na liście. Jeśli masz dziesięć usług i chcesz, żeby najbardziej dochodowa lub najczęściej wybierana widniała jako pierwsza, właśnie tu to ustawiasz.
 
 ## SEO
 

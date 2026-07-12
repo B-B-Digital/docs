@@ -17,7 +17,7 @@ Pola w zakładce SEO powtarzają się w niemal każdym typie dokumentu:
 - Obraz do udostępniania — grafika pokazywana, gdy ktoś wklei link do Twojej strony na Facebooku albo w wiadomości
 - Ukryj przed wyszukiwarkami — opcja, z której korzysta się rzadko, np. dla strony jeszcze przed startem
 
-Dobry tytuł i opis nie muszą brzmieć jak lista słów kluczowych. "Kancelaria Nowak i Wspólnicy — prawo rodzinne w Poznaniu" powie wyszukiwarce i klientowi więcej niż samo "kancelaria prawo rodzinne poznań tanio szybko".
+Dobry tytuł i opis nie muszą brzmieć jak lista słów kluczowych. „Kancelaria Nowak i Wspólnicy — prawo rodzinne w Poznaniu” powie wyszukiwarce i klientowi więcej niż samo „kancelaria prawo rodzinne poznań tanio szybko”.
 
 ## Wyjątek: Strona Usług
 

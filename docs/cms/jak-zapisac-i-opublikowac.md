@@ -6,11 +6,11 @@ title: Jak zapisać i opublikować zmiany?
 
 # Jak zapisać i opublikować zmiany?
 
-Panel zapisuje Twoją pracę na bieżąco, więc nie musisz się martwić o utratę wpisanego tekstu. To jednak nie znaczy, że każda literka od razu trafia na stronę widoczną dla klientów. Między "zapisane" a "opublikowane" jest istotna różnica i warto ją rozumieć od pierwszego dnia pracy z panelem.
+Panel zapisuje Twoją pracę na bieżąco, więc nie musisz się martwić o utratę wpisanego tekstu. To jednak nie znaczy, że każda literka od razu trafia na stronę widoczną dla klientów. Między „zapisane” a „opublikowane” jest istotna różnica i warto ją rozumieć od pierwszego dnia pracy z panelem.
 
 ## Wersja robocza
 
-Gdy edytujesz dowolny dokument — dodajesz zdanie do opisu usługi, poprawiasz literówkę w biografii, zmieniasz numer telefonu — zmiana od razu zapisuje się jako **wersja robocza**. Widzisz ją tylko Ty, po zalogowaniu do panelu. Możesz spokojnie zamknąć kartę w połowie edycji, wrócić po godzinie albo po tygodniu, a Twoje zmiany będą czekały dokładnie w tym miejscu, w którym je zostawiłeś.
+Gdy edytujesz dowolny dokument — dodajesz zdanie do opisu usługi, poprawiasz literówkę w biografii, zmieniasz numer telefonu — zmiana od razu zapisuje się jako **wersja robocza**. Widzisz ją tylko Ty, po zalogowaniu do panelu. Możesz spokojnie zamknąć kartę w połowie edycji, wrócić po godzinie albo po tygodniu, a Twoje zmiany będą czekały dokładnie w tym miejscu, w którym je zostawiłeś/aś.
 
 Obok tytułu dokumentu z niezapisanymi jeszcze zmianami zobaczysz małą kropkę. To sygnał, że coś czeka na opublikowanie.
 

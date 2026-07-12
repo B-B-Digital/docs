@@ -24,7 +24,7 @@ Dokładny zestaw przycisków bywa odrobinę inny w zależności od pola — opis
 
 ## Akapity i nowe linie
 
-Enter zaczyna nowy akapit, dokładnie jak w edytorze tekstu, do którego jesteś przyzwyczajony. Nie musisz nic dodatkowo formatować — odstępy między akapitami dobierze już sam szablon strony.
+Enter zaczyna nowy akapit, dokładnie jak w edytorze tekstu, do którego jesteś przyzwyczajony/a. Nie musisz nic dodatkowo formatować — odstępy między akapitami dobierze już sam szablon strony.
 
 ## Nagłówki z umiarem
 

@@ -22,7 +22,7 @@ Jeśli po tych krokach strona nadal nie działa poprawnie, to znak, że problem 
 
 Napisz do nas przez kanał kontaktu ustalony przy podpisywaniu umowy, opisując krótko, co się dzieje. Najbardziej pomaga nam kilka konkretów: dokładny adres podstrony, na której widzisz problem, zrzut ekranu, jeśli to możliwe, oraz informacja, kiedy problem się pojawił. Dzięki temu szybciej znajdziemy przyczynę, zamiast zgadywać, o co chodzi.
 
-Nie musisz się zastanawiać, czy to "wystarczająco poważny" problem, żeby pisać. Wolimy sprawdzić coś, co ostatecznie okaże się drobnostką, niż zostawić Cię z zepsutą stroną, która czeka, aż problem zniknie sam.
+Nie musisz się zastanawiać, czy to „wystarczająco poważny” problem, żeby pisać. Wolimy sprawdzić coś, co ostatecznie okaże się drobnostką, niż zostawić Cię z zepsutą stroną, która czeka, aż problem zniknie sam.
 
 ---
 

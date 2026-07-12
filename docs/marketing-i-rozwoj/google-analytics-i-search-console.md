@@ -14,7 +14,7 @@ Analytics zbiera statystyki ruchu: ile osób weszło na stronę, jakie podstrony
 
 ## Search Console — jak Google widzi Twoją stronę
 
-Search Console pokazuje sprawę z drugiej strony: informuje, czy Google w ogóle zaindeksował Twoje podstrony, na jakie wyszukiwane hasła się pojawiasz i czy nie ma żadnych technicznych problemów utrudniających widoczność. Dzięki temu narzędziu gabinet stomatologiczny może sprawdzić, czy pojawia się w wynikach na frazę "dentysta + nazwa miasta".
+Search Console pokazuje sprawę z drugiej strony: informuje, czy Google w ogóle zaindeksował Twoje podstrony, na jakie wyszukiwane hasła się pojawiasz i czy nie ma żadnych technicznych problemów utrudniających widoczność. Dzięki temu narzędziu gabinet stomatologiczny może sprawdzić, czy pojawia się w wynikach na frazę „dentysta + nazwa miasta”.
 
 ## Jeśli jeszcze ich nie masz
 

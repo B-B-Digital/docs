@@ -10,7 +10,7 @@ Zanim ktoś umówi wizytę czy podpisze umowę, często chce zobaczyć twarz oso
 
 ## Imię, nazwisko i stanowisko
 
-Dwa podstawowe pola to imię i nazwisko oraz stanowisko czy rola — "lek. dent. Anna Kowalska", "radca prawny", "trener biznesu". To one wyświetlają się bezpośrednio przy zdjęciu danej osoby.
+Dwa podstawowe pola to imię i nazwisko oraz stanowisko czy rola — „lek. dent. Anna Kowalska”, „radca prawny”, „trener biznesu”. To one wyświetlają się bezpośrednio przy zdjęciu danej osoby.
 
 ## Zdjęcie portretowe
 
@@ -18,10 +18,10 @@ Zdjęcie członka zespołu najlepiej sprawdza się w układzie pionowym, portret
 
 ## Biogram
 
-Biogram to krótki tekst o doświadczeniu, wykształceniu czy specjalizacji danej osoby — piszesz go w tym samym edytorze tekstu, co inne dłuższe treści w panelu ([jak korzystać z edytora tekstu](./jak-korzystac-z-edytora-tekstu.md)). W przeciwieństwie do usług, członkowie zespołu **nie mają własnej podstrony ani osobnego adresu w internecie** — cały biogram mieści się na jednej karcie, zwykle na stronie "O nas".
+Biogram to krótki tekst o doświadczeniu, wykształceniu czy specjalizacji danej osoby — piszesz go w tym samym edytorze tekstu, co inne dłuższe treści w panelu ([jak korzystać z edytora tekstu](./jak-korzystac-z-edytora-tekstu.md)). W przeciwieństwie do usług, członkowie zespołu **nie mają własnej podstrony ani osobnego adresu w internecie** — cały biogram mieści się na jednej karcie, zwykle na stronie „O nas”.
 
 ## Kolejność wyświetlania
 
-Podobnie jak przy usługach, liczba w polu "Kolejność wyświetlania" decyduje, kto pojawia się pierwszy na liście — mniejsza liczba oznacza wyższą pozycję. Właściciel gabinetu albo kancelarii zwykle ustawia siebie jako pierwszego, ale to oczywiście Twoja decyzja.
+Podobnie jak przy usługach, liczba w polu „Kolejność wyświetlania” decyduje, kto pojawia się pierwszy na liście — mniejsza liczba oznacza wyższą pozycję. Właściciel gabinetu albo kancelarii zwykle ustawia siebie jako pierwszego, ale to oczywiście Twoja decyzja.
 
 Jeśli Twoja strona ma bloga, kolejny krok to dodanie pierwszego wpisu — zobacz [jak dodać wpis na bloga](./wpis-na-blogu.md).

@@ -12,7 +12,7 @@ Jeśli prowadzisz gabinet, kancelarię albo firmę usługową w Polsce, Twoja st
 
 Cookies to małe pliki, które strona zapisuje w przeglądarce odwiedzającego — np. żeby zapamiętać jego preferencje albo zliczyć wizytę w Google Analytics. Baner z prośbą o zgodę na cookies to wymóg prawny: odwiedzający musi mieć możliwość zaakceptować je albo odmówić, zanim zaczną działać te niekonieczne do samego działania strony.
 
-Ten baner konfigurujemy techniczne za Ciebie. Nie musisz nic programować ani samodzielnie dodawać żadnego kodu.
+Ten baner konfigurujemy technicznie za Ciebie. Nie musisz nic programować ani samodzielnie dodawać żadnego kodu.
 
 ## Co jest po Twojej stronie
 

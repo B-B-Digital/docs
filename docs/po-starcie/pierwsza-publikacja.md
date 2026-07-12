@@ -14,7 +14,7 @@ Dobry pierwszy test to literówka w opisie usługi albo nieaktualny numer telefo
 
 ## Krok po kroku
 
-1. Zaloguj się do panelu pod adresem, który od nas dostałeś.
+1. Zaloguj się do panelu pod adresem, który od nas dostałeś/aś.
 2. Znajdź w treści element, który chcesz poprawić — na przykład opis usługi albo dane kontaktowe.
 3. Kliknij w pole tekstowe i wprowadź zmianę.
 4. Kliknij **Publikuj** w prawym górnym rogu ekranu.

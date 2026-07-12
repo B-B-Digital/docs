@@ -18,9 +18,9 @@ Jeśli na Twojej stronie działa mapa, domyślnie opiera się ona na wpisanym ad
 
 ## Godziny otwarcia
 
-Godziny otwarcia to lista wierszy — każdy wiersz to zakres dni i odpowiadające im godziny, np. "Pon–Pt" i "9:00–17:00", albo "Sob" i "Zamknięte". Możesz dodawać, usuwać i zmieniać kolejność tych wierszy dowolnie, więc jeśli pracujesz w soboty tylko raz na miesiąc, spokojnie opiszesz to jednym wierszem zamiast szukać dodatkowego pola.
+Godziny otwarcia to lista wierszy — każdy wiersz to zakres dni i odpowiadające im godziny, np. „Pon–Pt” i „9:00–17:00”, albo „Sob” i „Zamknięte”. Możesz dodawać, usuwać i zmieniać kolejność tych wierszy dowolnie, więc jeśli pracujesz w soboty tylko raz na miesiąc, spokojnie opiszesz to jednym wierszem zamiast szukać dodatkowego pola.
 
-To dobre miejsce, żeby zajrzeć do niego przy okazji świąt i długich weekendów — majówka, Wszystkich Świętych, przerwa świąteczna na przełomie roku. Nic tak nie irytuje klienta, jak przyjazd pod zamknięte drzwi mimo godzin widniejących na stronie jako "otwarte". Po każdej zmianie **pamiętaj też o zapisaniu i opublikowaniu** — inaczej nowe godziny zostaną tylko w wersji roboczej ([jak zapisać i opublikować](./jak-zapisac-i-opublikowac.md)).
+To dobre miejsce, żeby zajrzeć do niego przy okazji świąt i długich weekendów — majówka, Wszystkich Świętych, przerwa świąteczna na przełomie roku. Nic tak nie irytuje klienta, jak przyjazd pod zamknięte drzwi mimo godzin widniejących na stronie jako „otwarte”. Po każdej zmianie **pamiętaj też o zapisaniu i opublikowaniu** — inaczej nowe godziny zostaną tylko w wersji roboczej ([jak zapisać i opublikować](./jak-zapisac-i-opublikowac.md)).
 
 ## SEO
 

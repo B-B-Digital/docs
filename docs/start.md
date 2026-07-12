@@ -77,4 +77,4 @@ Domena, analityka, wizytówka Google i zgłaszanie nowych pomysłów:
 - [Współpraca z agencją SEO lub marketingową](./marketing-i-rozwoj/wspolpraca-z-agencja-seo.md)
 - [Jak zgłosić nową funkcję lub podstronę](./marketing-i-rozwoj/zgloszenie-nowej-funkcji.md)
 
-Masz pytanie, na które nie znalazłeś tu odpowiedzi? Napisz do nas — chętnie pomożemy.
+Masz pytanie, na które nie znalazłeś/aś tu odpowiedzi? Napisz do nas — chętnie pomożemy.

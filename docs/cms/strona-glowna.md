@@ -22,4 +22,4 @@ Pamiętaj, że to ma być wybór, nie pełna lista — na stronie głównej poka
 
 Strona główna ma też własną zakładkę SEO, niezależną od ustawień ogólnych strony — opisujemy ją w [jak wypełnić zakładkę SEO](./jak-wypelnic-zakladke-seo.md).
 
-Kolejny naturalny krok to strona "O nas" — sprawdź [jak ją edytować](./strona-o-nas.md).
+Kolejny naturalny krok to strona „O nas” — sprawdź [jak ją edytować](./strona-o-nas.md).

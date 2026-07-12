@@ -12,7 +12,7 @@ Dla gabinetu, kancelarii czy praktyki coachingowej opinie to często najmocniejs
 
 ## Autor i treść opinii
 
-Dla każdej opinii uzupełniasz imię i nazwisko autora oraz — opcjonalnie — jego rolę lub kontekst, np. "Pacjentka od 2020 roku", "Klient korporacyjny", "Uczestnik programu mentoringowego". Samą treść opinii wpisujesz jako zwykły tekst, bez formatowania — najlepiej sprawdzają się autentyczne, konkretne zdania, a nie ogólnikowe pochwały.
+Dla każdej opinii uzupełniasz imię i nazwisko autora oraz — opcjonalnie — jego rolę lub kontekst, np. „Pacjentka od 2020 roku”, „Klient korporacyjny”, „Uczestnik programu mentoringowego”. Samą treść opinii wpisujesz jako zwykły tekst, bez formatowania — najlepiej sprawdzają się autentyczne, konkretne zdania, a nie ogólnikowe pochwały.
 
 ## Ocena i kolejność
 
@@ -24,6 +24,6 @@ Rekomendujemy **3 opinie** jako komplet — tyle zwykle mieści się w jednym rz
 
 ## Czego tu nie znajdziesz
 
-Jeśli obok opinii Twoja strona pokazuje też zbiorczą ocenę z Google albo Trustpilot (np. "4,9 na podstawie 120 opinii"), to **nie jest edytowane w tej liście**. Taka zbiorcza ocena pochodzi z osobnego ustawienia, które konfigurujemy dla Ciebie po naszej stronie — nie szukaj jej wśród pojedynczych opinii klientów w panelu.
+Jeśli obok opinii Twoja strona pokazuje też zbiorczą ocenę z Google albo Trustpilot (np. „4,9 na podstawie 120 opinii”), to **nie jest edytowane w tej liście**. Taka zbiorcza ocena pochodzi z osobnego ustawienia, które konfigurujemy dla Ciebie po naszej stronie — nie szukaj jej wśród pojedynczych opinii klientów w panelu.
 
 To ostatni z poradników o edycji poszczególnych treści w CMS. Jeśli nie masz jeszcze trzech gotowych opinii, zacznij od tych, które już masz pod ręką — kolejne zawsze możesz dodać później.

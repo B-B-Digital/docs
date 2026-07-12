@@ -6,7 +6,7 @@ title: Jak wgrywać i kadrować zdjęcia?
 
 # Jak wgrywać i kadrować zdjęcia?
 
-Pole na zdjęcie w panelu wygląda skromnie — prostokąt z napisem "Wgraj obraz" albo już wstawioną miniaturką. Kryją się za nim jednak dwie rzeczy, które warto znać, zanim wrzucisz pierwsze zdjęcie: kadrowanie i tekst alternatywny.
+Pole na zdjęcie w panelu wygląda skromnie — prostokąt z napisem „Wgraj obraz” albo już wstawioną miniaturką. Kryją się za nim jednak dwie rzeczy, które warto znać, zanim wrzucisz pierwsze zdjęcie: kadrowanie i tekst alternatywny.
 
 ## Wgrywanie
 
@@ -18,7 +18,7 @@ To samo zdjęcie bywa wykorzystane w kilku miejscach na stronie — raz jako sze
 
 ## Tekst alternatywny
 
-Niemal przy każdym zdjęciu zobaczysz też pole "Tekst alternatywny" (albo "Alt text"). To krótki opis tego, co jest na zdjęciu, np. "Dr Anna Kowalska w gabinecie stomatologicznym". Wypełnij je za każdym razem, gdy się pojawia — z dwóch powodów. Po pierwsze, czyta je Google przy indeksowaniu obrazów. Po drugie, osoby korzystające z czytnika ekranu, bo są niewidome albo słabowidzące, usłyszą właśnie ten opis zamiast samego zdjęcia. Dla Ciebie to jedno zdanie, dla części odwiedzających — jedyny sposób, żeby w ogóle dowiedzieć się, co pokazuje ta fotografia.
+Niemal przy każdym zdjęciu zobaczysz też pole „Tekst alternatywny” (albo „Alt text”). To krótki opis tego, co jest na zdjęciu, np. „Dr Anna Kowalska w gabinecie stomatologicznym”. Wypełnij je za każdym razem, gdy się pojawia — z dwóch powodów. Po pierwsze, czyta je Google przy indeksowaniu obrazów. Po drugie, osoby korzystające z czytnika ekranu, bo są niewidome albo słabowidzące, usłyszą właśnie ten opis zamiast samego zdjęcia. Dla Ciebie to jedno zdanie, dla części odwiedzających — jedyny sposób, żeby w ogóle dowiedzieć się, co pokazuje ta fotografia.
 
 ## Jaki kształt zdjęcia przygotować
 

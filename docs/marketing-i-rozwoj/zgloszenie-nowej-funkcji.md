@@ -12,7 +12,7 @@ Strona rzadko kończy się w dniu startu — z czasem pojawiają się nowe pomys
 
 Im dokładniej opiszesz, o co chodzi, tym szybciej przygotujemy dla Ciebie sensowną propozycję. Przydaje się:
 
-- **co chcesz osiągnąć** — np. "chcę, żeby klienci mogli umówić się na wizytę online, bez dzwonienia"
+- **co chcesz osiągnąć** — np. „chcę, żeby klienci mogli umówić się na wizytę online, bez dzwonienia”
 - **przykład, jeśli go masz** — link do strony innej firmy z podobnym rozwiązaniem bardzo ułatwia komunikację
 - **z czym to się łączy** — czy to osobna podstrona, zmiana na istniejącej, czy integracja z zewnętrznym narzędziem, które już znasz
 

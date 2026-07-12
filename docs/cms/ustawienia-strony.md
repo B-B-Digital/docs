@@ -6,15 +6,15 @@ title: Jak zmienić nazwę firmy, logo i social media
 
 # Jak zmienić nazwę firmy, logo i social media
 
-Zaczynamy nowy dział poradników — tym razem po kolei, dokument po dokumencie z panelu, tak jak są ułożone w Twoim menu po lewej stronie. Jeśli jeszcze nie wiesz, jak w ogóle poruszać się po panelu, zerknij najpierw na [nawigację po panelu](./jak-poruszac-sie-po-panelu.md) — tu zakładamy, że już tam byłeś.
+Zaczynamy nowy dział poradników — tym razem po kolei, dokument po dokumencie z panelu, tak jak są ułożone w Twoim menu po lewej stronie. Jeśli jeszcze nie wiesz, jak w ogóle poruszać się po panelu, zerknij najpierw na [nawigację po panelu](./jak-poruszac-sie-po-panelu.md) — tu zakładamy, że już tam byłeś/aś.
 
-Sekcja "Ustawienia strony" różni się od większości pozostałych tym, że dotyczy całej witryny naraz, a nie jednej podstrony. Nazwa firmy, logo, ikonka w przeglądarce i linki do social mediów pojawiają się w wielu miejscach jednocześnie: w nagłówku, w stopce, czasem w wynikach wyszukiwania Google. Zmiana tutaj widoczna jest wszędzie, od razu po opublikowaniu.
+Sekcja „Ustawienia strony” różni się od większości pozostałych tym, że dotyczy całej witryny naraz, a nie jednej podstrony. Nazwa firmy, logo, ikonka w przeglądarce i linki do social mediów pojawiają się w wielu miejscach jednocześnie: w nagłówku, w stopce, czasem w wynikach wyszukiwania Google. Zmiana tutaj widoczna jest wszędzie, od razu po opublikowaniu.
 
 To **dokument jeden na całą stronę** — nie ma tu listy do przeglądania ani przycisku dodawania nowego wpisu, o co pytają czasem nasi klienci. Więcej o różnicy między takim dokumentem a listą wpisów przeczytasz w [jedna strona czy lista wpisów](./jedna-strona-czy-lista-wpisow.md).
 
 ## Nazwa firmy i logo
 
-Pole "Nazwa firmy" to zwykły tekst — używamy go m.in. w tytule karty przeglądarki i w miejscach, gdzie strona odwołuje się do Ciebie z nazwy. Logo wgrywasz jak każde inne zdjęcie (zasady wgrywania i kadrowania opisujemy [tutaj](./jak-wgrywac-i-kadrowac-zdjecia.md)) — pojawi się w nagłówku i najczęściej też w stopce.
+Pole „Nazwa firmy” to zwykły tekst — używamy go m.in. w tytule karty przeglądarki i w miejscach, gdzie strona odwołuje się do Ciebie z nazwy. Logo wgrywasz jak każde inne zdjęcie (zasady wgrywania i kadrowania opisujemy [tutaj](./jak-wgrywac-i-kadrowac-zdjecia.md)) — pojawi się w nagłówku i najczęściej też w stopce.
 
 ## Favicon, czyli ikonka w karcie przeglądarki
 

@@ -18,7 +18,7 @@ Na samej górze menu, jeszcze przed żadnym podziałem, znajdziesz pozycje odpow
 - Strona Usług — ustawienia widoczności i SEO dla listy usług
 - Dane kontaktowe — adres, telefon, e-mail, godziny otwarcia
 
-Kliknięcie w dowolną z nich od razu otwiera formularz do edycji. Nie ma tu żadnego pośredniego kroku w stylu "wybierz, który dokument" — w tej grupie każdy istnieje tylko raz.
+Kliknięcie w dowolną z nich od razu otwiera formularz do edycji. Nie ma tu żadnego pośredniego kroku w stylu „wybierz, który dokument” — w tej grupie każdy istnieje tylko raz.
 
 ## Pod kreską: listy, które rozbudowujesz
 
@@ -28,7 +28,7 @@ Kliknięcie w taką pozycję nie otwiera od razu formularza edycji, tylko listę
 
 ## Twoje menu może wyglądać nieco inaczej
 
-Dokładna zawartość dolnej części menu zależy od tego, jakie funkcje uruchomiliśmy na Twojej stronie. Gabinet dentystyczny bez bloga po prostu nie zobaczy w menu pozycji "Wpis na blogu" — i to jest zupełnie normalne. Jeśli spodziewasz się jakiejś pozycji, a jej nie widzisz, to najpewniej nie usterka, tylko funkcja, której jeszcze u Ciebie nie włączyliśmy. Wystarczy się w tej sprawie do nas odezwać.
+Dokładna zawartość dolnej części menu zależy od tego, jakie funkcje uruchomiliśmy na Twojej stronie. Gabinet dentystyczny bez bloga po prostu nie zobaczy w menu pozycji „Wpis na blogu” — i to jest zupełnie normalne. Jeśli spodziewasz się jakiejś pozycji, a jej nie widzisz, to najpewniej nie usterka, tylko funkcja, której jeszcze u Ciebie nie włączyliśmy. Wystarczy się w tej sprawie do nas odezwać.
 
 ---
 

@@ -6,7 +6,7 @@ title: Co dalej?
 
 # Co dalej?
 
-Jeśli dotarłeś do tego miejsca, to znaczy, że masz już dostęp do panelu, wiesz gdzie się zalogować i sprawdziłeś, że publikowanie zmian faktycznie działa. Naturalne pytanie brzmi teraz: co dalej?
+Jeśli dotarłeś/aś do tego miejsca, to znaczy, że masz już dostęp do panelu, wiesz gdzie się zalogować i sprawdziłeś/aś, że publikowanie zmian faktycznie działa. Naturalne pytanie brzmi teraz: co dalej?
 
 ## Nauka poruszania się po panelu
 

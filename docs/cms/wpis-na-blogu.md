@@ -6,7 +6,7 @@ title: Jak dodać wpis na bloga
 
 # Jak dodać wpis na bloga
 
-**Ten poradnik dotyczy Cię tylko wtedy, gdy Twoja strona ma sekcję bloga** — nie każda witryna, którą budujemy, z niej korzysta. Jeśli nie masz pewności, czy Twoja ma, zerknij do menu w panelu po lewej stronie: jeśli widzisz tam "Wpisy na blogu", ten poradnik jest dla Ciebie.
+**Ten poradnik dotyczy Cię tylko wtedy, gdy Twoja strona ma sekcję bloga** — nie każda witryna, którą budujemy, z niej korzysta. Jeśli nie masz pewności, czy Twoja ma, zerknij do menu w panelu po lewej stronie: jeśli widzisz tam „Wpisy na blogu”, ten poradnik jest dla Ciebie.
 
 Blog to dobre miejsce, żeby pokazać wiedzę, którą się zawodowo zajmujesz — prawnik może opisać, na co zwrócić uwagę przy umowie najmu, dentysta wytłumaczyć różnicę między koronką a licówką. To buduje zaufanie jeszcze zanim ktoś zadzwoni, a przy okazji pomaga stronie pojawiać się w wynikach wyszukiwania.
 
@@ -24,7 +24,7 @@ Każdy wpis może mieć zdjęcie główne, wyświetlane na liście wpisów i na 
 
 ## Treść wpisu
 
-Samą treść piszesz w edytorze tekstu ([jak korzystać z edytora tekstu](./jak-korzystac-z-edytora-tekstu.md)) — z nagłówkami, pogrubieniami, cytatami. W treści wpisu możesz też wstawiać dodatkowe zdjęcia w dowolnym miejscu, razem z podpisem pod nimi, co przydaje się np. przy pokazywaniu zdjęć "przed i po" albo dokumentowaniu jakiegoś procesu krok po kroku.
+Samą treść piszesz w edytorze tekstu ([jak korzystać z edytora tekstu](./jak-korzystac-z-edytora-tekstu.md)) — z nagłówkami, pogrubieniami, cytatami. W treści wpisu możesz też wstawiać dodatkowe zdjęcia w dowolnym miejscu, razem z podpisem pod nimi, co przydaje się np. przy pokazywaniu zdjęć „przed i po” albo dokumentowaniu jakiegoś procesu krok po kroku.
 
 ## SEO
 
